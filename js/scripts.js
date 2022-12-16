@@ -1,5 +1,5 @@
 
-
+// 66
 window.addEventListener('DOMContentLoaded', event => {
 
     // Navbar shrink function
